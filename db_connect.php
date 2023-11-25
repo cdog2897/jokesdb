@@ -6,7 +6,7 @@ error_reporting(E_ALL);
 // modify these settings according to the account on your database server.
 $host = "10.118.179.93";
 $port = "3306";
-$username = "root";
+$username = "test";
 $user_pass = "root";
 $database_in_use = "JokesDB";
 
