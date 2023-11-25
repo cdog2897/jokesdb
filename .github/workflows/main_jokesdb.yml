@@ -63,4 +63,4 @@ jobs:
           app-name: 'jokesdb'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0F0DF7C42EB94C23B212B9E8AE872D21 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DDDCB2227FA342A4AA81070C8B6BAC8A }}
