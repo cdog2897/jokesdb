@@ -4,7 +4,7 @@ ini_set('display_startup_errors', '1');
 error_reporting(E_ALL);
 
 // modify these settings according to the account on your database server.
-$host = "10.118.179.93";
+$host = "localhost";
 $port = "3306";
 $username = "test";
 $user_pass = "root";
